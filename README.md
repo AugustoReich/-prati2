@@ -22,4 +22,4 @@ Este é um site pessoal simples que apresenta informações sobre Augusto Benjam
 
 ---
 
-Feito com ❤️ por Augusto Benjamin Reich
+Feito por Augusto Benjamin Reich
